@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... TBD 
 - 🌱 I’m currently learning ... TBD
 - 💞️ I’m looking to collaborate on ... TBD
-- 📫 maltovikas@rocketmail.com
 
 <!---
 VikasChoata88/VikasChoata88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
